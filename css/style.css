@@ -766,7 +766,7 @@ p.quote {
 	text-align: center;
 }
 .color-block a, .color-block .quote i, .color-block .quote-author, .color-block .twitter-date a, .color-block .twitter-author a, .color-block .testimonial-slider .title span, .color-block .client-info {
-	color: #000000;
+	color: white;
 }
 /*--------------------------------------------------------
 /* PAGE SECTIONS
@@ -816,10 +816,11 @@ p.quote {
 	line-height: 1.2;
 	padding: 0;
 	margin-bottom: 40px;
+	margin-top: 40px;
 	position: relative;
 	z-index: 1;
-	font-weight: 700;
-	text-transform: uppercase;
+	font-weight: inherit;
+	/*text-transform: uppercase;*/
 }
 
 

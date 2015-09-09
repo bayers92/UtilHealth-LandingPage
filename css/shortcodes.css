@@ -334,6 +334,7 @@ blockquote p {
 	-webkit-border-radius:3px;
 	-moz-border-radius:3px;
 	border-radius:3px;
+	height: 480px;
 	
 }
 .service-box:hover {

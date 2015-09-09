@@ -1,3 +1,7 @@
 .larger-font {
 	font-size: 120% !important;
 }
+
+.small-top-padding {
+	padding-top: 30px;
+}
